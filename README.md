@@ -2,7 +2,8 @@
 This is a Multi master Multi slave compatible system bus design modeled using verilog. This is much like AMBA AHB Specification 
 
 This is the full Architecture Diagram of the Bus
-![alt text](https://drive.google.com/open?id=1eAsv37-2MHmDXvL0QEzt-RUoxdeEIwds)
+![bus](https://user-images.githubusercontent.com/29881881/41427788-a5a103ae-7025-11e8-9f71-e7d774dcae57.png)
+
 
 For More information please reffer AMBA Spec 2.0 Rev 
 https://developer.arm.com/docs/ihi0011/latest/amba-specification-rev-20
